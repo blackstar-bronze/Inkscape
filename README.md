@@ -208,4 +208,4 @@ Inkscape is fully free software, providing all features and updates without any 
 Ready to start your design journey? Download Inkscape today and unleash your creativity!
 
 ---
-**Last updated:** 2026-09-14 11:20:31 UTC
+**Last updated:** 2026-09-14 17:19:29 UTC
